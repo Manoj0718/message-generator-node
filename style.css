@@ -99,7 +99,6 @@ video {
 }
 
 .header {
-    border: 1px solid #000;
     height: 30vh;
     margin: 10px 0;
 }
@@ -110,7 +109,6 @@ video {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    border: 1px solid #000;
     align-items: center;
 }
 
@@ -126,9 +124,9 @@ button {
 .message {
     height: 30vh;
     margin: 10px 0;
-    border: 1px solid #000;
     align-items: center;
     padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
 }
 
 #display_text {
