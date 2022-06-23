@@ -1,1 +1,3 @@
-Hello Git and GitHub
+Random message generator pure javascript 
+
+
