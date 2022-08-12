@@ -15,8 +15,8 @@ const inspireObject = {
     "When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.",
   ],
   authors: [
-    "Albert Einstein",
-    "Mahatma Gandhi",
+    "Aloka Anthoney",
+    "Aloka Anthoney",
     "Mark Twain",
     "Eleanor Roosevelt",
   ],
