@@ -14,4 +14,4 @@
 * JavaScript
 * CSS
 
-[Visit Random Quotes Generator Github Page](https://manoj0718.github.io/message-generator-node/)
+[Live Preview ](https://manoj0718.github.io/message-generator-node/)
